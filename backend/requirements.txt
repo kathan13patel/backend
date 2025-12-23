@@ -5,3 +5,4 @@ dnspython==2.4.2
 djongo
 python-dotenv
 gunicorn
+Procfile
